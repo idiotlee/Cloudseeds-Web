@@ -1,0 +1,50 @@
+﻿$axure.loadCurrentPage({
+  "url":"生产资料首页.html",
+  "generationDate":new Date(1430364959560.55),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"sfz",
+"sfz_n",
+"statue",
+"navigator",
+"checkstatue",
+"SliderValue",
+"IfRecord",
+"Receiver",
+"SpinnerValue",
+"rl_date",
+"rl_day",
+"Actor",
+"PercIncreaseNum",
+"PercCalcValue"],
+  "page":{
+    "packageId":"ca45573a7758425a9e4dd4bb1833ced7",
+    "type":"Axure:Page",
+    "name":"生产资料首页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFF0F0F0},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});
